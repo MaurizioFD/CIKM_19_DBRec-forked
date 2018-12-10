@@ -12,10 +12,10 @@ tensorflow, keras, pickle, numpy are required in order to run the code.
 
 To train the model, type in the commend:
 
-python3 hisrec.py train 35
+python3 model_softmax.py train 35
 
 where 35 is the pre-specified latent group number, and it can be fine tuned to get the best performance. 
 
 To test the model, type in the commend:
 
-python3 hisrec.py test 35
+python3 model_softmax.py test 35
