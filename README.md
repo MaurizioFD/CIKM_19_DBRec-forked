@@ -1,5 +1,6 @@
 # DBRec
 Dual-Bridging Recommendation with Latent Group Discovery
+
 's_matrix.npy' size of [num_user, num_user] is the user similar matrix, which can be obtain from the rating matrix. 
 
 The dataset is Amozon music data, and it is split into training set(70%), development set (10%), and testing set (20%)
